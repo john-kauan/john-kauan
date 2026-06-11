@@ -37,7 +37,9 @@ Estudante de Sistemas de Informação na UFV, Desenvolvedor focado em **Back-end
 
 ## 📂 Projeto em destaque
 
-- 🚗 Sistema de Corridas (tipo Uber - "pediuber") – Spring Boot + Docker + PostgreSQL  
+- 🚗 Sistema de Corridas - "PediUber"
+  https://github.com/john-kauan/pediuber-backend (backend)
+  https://github.com/john-kauan/pediuber-frontend (frontend)
 
 ---
 
