@@ -45,7 +45,7 @@ Estudante de Sistemas de Informação na UFV, Desenvolvedor focado em **Back-end
 
 ## 📫 Contato
 
-📧 Email: **[john.passos@ufv.com.br](mailto:john.passos@ufv.com.br)**  
+📧 Email: **[john.passos@ufv.com.br](mailto:john.passos@ufv.br)**  
 📱 WhatsApp: **[+55 (38) 99841-3871](https://wa.me/5538998413871)**
 
 💼 LinkedIn: **[https://linkedin.com/in/johnkauan](https://linkedin.com/in/johnkauan)**  
